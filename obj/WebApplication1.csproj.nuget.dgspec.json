@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CODE-DEV-58\\Desktop\\APIRest Dotnet\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "c:\\Users\\CODE-DEV-58\\Desktop\\TESTE\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CODE-DEV-58\\Desktop\\APIRest Dotnet\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "c:\\Users\\CODE-DEV-58\\Desktop\\TESTE\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CODE-DEV-58\\Desktop\\APIRest Dotnet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "c:\\Users\\CODE-DEV-58\\Desktop\\TESTE\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\CODE-DEV-58\\Desktop\\APIRest Dotnet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "c:\\Users\\CODE-DEV-58\\Desktop\\TESTE\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\CODE-DEV-58\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CODE-DEV-58\\Desktop\\APIRest Dotnet\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "c:\\Users\\CODE-DEV-58\\Desktop\\TESTE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CODE-DEV-58\\AppData\\Roaming\\NuGet\\NuGet.Config",

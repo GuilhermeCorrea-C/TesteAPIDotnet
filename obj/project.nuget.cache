@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JNcEU7XPO5TvUTsfBqmMDspw3rLchy8vie6yJENzvBmTMPMXc5qVT3CLwKNnTqJw3YeGpJCd4ElJwDBhCDgc0w==",
+  "dgSpecHash": "fqL78rPASo8WGo+ZyYjxcdG2UVyNM/RcsoVK33HvqtS7Mn2o+rVU2psao0lRV23fbhcX/Q5VIZnj8bNFh8tVEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CODE-DEV-58\\Desktop\\APIRest Dotnet\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "c:\\Users\\CODE-DEV-58\\Desktop\\TESTE\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CODE-DEV-58\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\CODE-DEV-58\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
